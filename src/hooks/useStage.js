@@ -35,7 +35,7 @@ export const useStage = (player, resetPlayer) => {
           }
         });
       });
-      // Then check if we got some score if collided
+      // it checks if we have score if it collides 
       if (player.collided) {
         resetPlayer();
         return sweepRows(newStage);
@@ -43,7 +43,7 @@ export const useStage = (player, resetPlayer) => {
       return newStage;
     };
 
-    // Here are the updates
+    // updates
     setStage(prev => updateStage(prev));
   }, [
     player.collided,
