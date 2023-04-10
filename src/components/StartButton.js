@@ -10,8 +10,8 @@ const StyledStartButton = styled.button`
   width: 100%;
   border-radius: 20px;
   border: none;
-  color: yellow;
-  background: #333;
+  color: cyan;
+  background: #111;
   font-family: Pixel, Arial, Helvetica, sans-serif;
   font-size: 1rem;
   outline: none;
