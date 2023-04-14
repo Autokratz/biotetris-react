@@ -6,13 +6,13 @@ This project was bootstrapped with [Create React App], you can see how each comp
 
 **Autokratz**
 
-[LinkedIn]linkedin.com/in/hectorcabra
+* [LinkedIn](linkedin.com/in/hectorcabra)
 
-[Portfolio]https://autokratz.github.io/Autokratz-portfolio/
+* [Portafolio](https://autokratz.github.io/Autokratz-portfolio/)
 
 ## Check out the project!
 
-https://autokratz.github.io/biotetris-react/
+- https://autokratz.github.io/biotetris-react/
 
 ## Available Scripts
 
