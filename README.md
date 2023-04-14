@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App], you can see how each comp
 
 * [LinkedIn](linkedin.com/in/hectorcabra)
 
-* [Portafolio](https://autokratz.github.io/Autokratz-portfolio/)
+* [Web Portfolio](https://autokratz.github.io/Autokratz-portfolio/)
 
 ## Check out the project!
 
