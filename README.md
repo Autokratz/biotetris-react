@@ -1,6 +1,6 @@
 ## Description
 
-This project was bootstrapped with [Create React App], you can see how each component has its own styling to make it easier to adapt.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), you can see how each component has its own styling to make it easier to adapt.
 
 ## Author 
 
